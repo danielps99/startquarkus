@@ -1,5 +1,16 @@
 # startquarkus
 
+## Pay attention:
+Vulnerabilities of dependence com.github.javafaker
+```CVE-2017-18640 7.5 Improper Restriction of Recursive Entity References in DTDs ('XML Entity Expansion') vulnerability
+CVE-2022-25857 7.5 Uncontrolled Resource Consumption vulnerability
+CVE-2022-38752 6.5 Out-of-bounds Write vulnerability
+CVE-2022-38749 6.5 Out-of-bounds Write vulnerability
+CVE-2022-38750 5.5 Out-of-bounds Write vulnerability
+CVE-2022-38751 6.5 Out-of-bounds Write vulnerability
+CVE-2022-41854 6.5 Out-of-bounds Write vulnerability
+CVE-2022-1471 9.8 Deserialization of Untrusted Data vulnerability
+```
 ## Project in order to study:
 - Reactive programming vs imperative programming.
 - Producer and consumer Apache Kafka.
